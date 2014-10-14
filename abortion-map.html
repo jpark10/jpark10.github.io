@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewport"></meta>
-<title>Abortion Map - Google Fusion Tables</title>
+<title>Abortion Chart - Google Fusion Tables</title>
 <style type="text/css">
 html, body, #googft-mapCanvas {
   height: 900px;
@@ -24,11 +24,11 @@ html, body, #googft-mapCanvas {
       viewport.setAttribute('content', 'initial-scale=1.0, user-scalable=no');
     }
     var mapDiv = document.getElementById('googft-mapCanvas');
-    mapDiv.style.width = isMobile ? '100%' : '1000px';
-    mapDiv.style.height = isMobile ? '100%' : '600px';
+    mapDiv.style.width = isMobile ? '100%' : '1500px';
+    mapDiv.style.height = isMobile ? '100%' : '900px';
     var map = new google.maps.Map(mapDiv, {
-      center: new google.maps.LatLng(50.26157038802172, -103.22404800000004),
-      zoom: 3,
+      center: new google.maps.LatLng(39.675481536072176, -99.26896987500004),
+      zoom: 4,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
     map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend-open'));
@@ -39,7 +39,7 @@ html, body, #googft-mapCanvas {
       heatmap: { enabled: false },
       query: {
         select: "col3",
-        from: "1wBy5Buh1Ilu0JeQmahASzRI7it7U7HjQCbGmDACw",
+        from: "1urYQB4ygUT1D6Toj9M0h2qkwVm3N1bzbkCnj6R-1",
         where: ""
       },
       options: {
@@ -69,7 +69,6 @@ html, body, #googft-mapCanvas {
   google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 </head>
-
 <body>
   <p><strong><center><font face="times new roman" color="black">States Where Abortion Must Be Performed By a Licensed Doctor</font></center></strong>.</p>
   <center><div id="googft-mapCanvas"></div></center>
