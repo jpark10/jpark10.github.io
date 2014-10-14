@@ -1,1 +1,0 @@
-<iframe width="1500" height="900" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Xcy0QN3FeW7KjW-6oOgijOy1qOQeJstHp03pEqBU&amp;viz=MAP&amp;h=false&amp;lat=46.1169027082006&amp;lng=-96.55723602500001&amp;t=1&amp;z=3&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
