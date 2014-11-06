@@ -2,4 +2,13 @@ So for this assignment I decided to read through the metholodgies that FiveThirt
 
 1. Overall I thought that the method FiveThirtyEight used was much more specific than the one from The Washington Post. The website had much more concrete evidence on the method it used and how it worked for the publication when combining all the number of people who came out to vote for the candidates in the past.
 
-2. 
+2. FiveThirtyEight, unlike The Washington Post used the trend line adjustment method for presidential elections but not for the senate ones. The article points out how important this concept is when forecasting the presidential race becuase you can make certain predictions about how a candidate will do in various states by looking at the results from one state and the way the polls change throughout a certain period of time.
+
+3. The Washington Post in return doesn't consider appointed senators to be true incumbents. Through this model, the publication has done analysis' in the past between newly appointed senators and returning incumbents and have found that the latter have more of an advantage going into their races than the former. 
+
+4. For senate elections, FiveThirtyEight six different indicators when calculating their relative importance; the generic congressional ballot, congressional approval ratings, fundraising totals, highest elected office held, margin of victory in most recent senate election and candidate ideology and state partisanship.
+
+5. Finally the last difference I noted between the different yet similar methods both publications used was how FiveThirtyEight uses the economic index to help them get a better sense of "the national popular vote." The computer program the organization uses, which was created by the members of this publication, was created so the number on the "national fundamentals" was zero by the time election day came around. So essentially the program had it so the numbers would decrease during the campaign and get even closer as it got closer to election day. 
+
+
+I'm not an expert so I don't think I'm well-equiped to be critiquing the different methods these two publications used during senate, house members and presidentialy elections however, I feel that the FiveThirtyEight's methology was better in that it was much more specific. The website had step by step directions on how it got the numbers and even what different indicators and polls they used to contribute to the final total. Also, unlike The Washington Post, the former organziation used various indicators to help them predict in the best possible way, who would win in a certain race and which newly appointed candidates would do the best. 
