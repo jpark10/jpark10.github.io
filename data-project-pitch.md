@@ -13,6 +13,7 @@ November 10, 2014
 
 
 ARTICLE WEBSITES:
+
 1.	http://www.paloaltoonline.com/news/2014/11/04/palo-alto-teen-killed-on-tracks-tuesday
 
 2.	http://www.mercurynews.com/bay-area-news/ci_26862231/palo-alto-teen-killed-by-caltrain-early-tuesday#disqus_thread
