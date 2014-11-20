@@ -8,6 +8,7 @@ So I was looking around the NY Times website and came across this interactive gr
 
 
 
-- <a href="http://imgur.com/HOhtRRu"><img src="http://i.imgur.com/HOhtRRu.png" title="source: imgur.com" /></a>
+- So after looking through several other compelling, intersting and just beautifully created graphs from the New York Times, I came across this little graph from the Center on Budget and Policy Priorities. I think the legend does a good job at clarifying what color correlates to what topic, but I think the type of graph it chose to create was a mistake. Instead of using this particular graph, I think if the designer used either a bar graph or a pie chart it would've been much easier to read and figure out what percentage point goes with what specific year.
 
-So after looking through several other compelling, intersting and just beautifully created graphs from the New York Times, I came across this little graph from the Center on Budget and Policy Priorities. I think the legend does a good job at clarifying what color correlates to what topic, but I think the type of graph it chose to create was a mistake. Instead of using this particular graph, I think if the designer used either a bar graph or a pie chart it would've been much easier to read and figure out what percentage point goes with what specific year.
+
+<a href="http://imgur.com/HOhtRRu"><img src="http://i.imgur.com/HOhtRRu.png" title="source: imgur.com" /></a>
