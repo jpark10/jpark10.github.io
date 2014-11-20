@@ -10,3 +10,13 @@ http://www.nytimes.com/interactive/2014/06/20/sports/worldcup/how-world-cup-play
 
 
 <a href="http://imgur.com/HOhtRRu"><img src="http://i.imgur.com/HOhtRRu.png" title="source: imgur.com" /></a>
+
+
+
+Story:
+
+PALO ALTO – The recent tragedy involving a 16 year-old Gunn High School student on November 11 has re-sparked talks between school administrators and parents on teen suicides. Cameron Lee took his own life last week, which comes only one month after a 2014 Gunn High School alumnus also committed suicide mid October.
+
+But this isn’t the first time Gunn, one of the two public high schools that’s part of the Palo Alto Unified School District, has faced these incidents. In 2009-2010, there were six teen suicides in Palo Alto and five of these students were either current Gunn High School students or alumni that had recently graduated.
+
+Teen suicide, which may seem like a bigger problem in Palo Alto than other places in the Bay Area, is proven to be an issue in all parts of the United States. The total number of these incidents has increased by four percent since 2012. After looking at the data from several different organizations, it's clear that most people take their lives by using some sort of firearm, whether it may be a gun or a knife. 
