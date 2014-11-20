@@ -22,6 +22,7 @@ But this isn’t the first time Gunn, one of the two public high schools that’
 Teen suicide, which may seem like a bigger problem in Palo Alto than other places in the Bay Area, is proven to be an issue in all parts of the United States. The total number of these incidents has increased by four percent since 2012. After looking at the data from several different organizations, it's clear that most people take their lives by using some sort of firearm, whether it may be with a gun or a knife. 
 
 
+
 FUTURE PLANS:
 
 By Friday I should have the total number of teen suicides in Palo Alto alone within the last 7 years since the biggest number comes from 2009-2010 and even the total number of these incidents in neighboring places like Cupertino. I would also hopefully have the breakdown of what percentage of people used a certain method to committ these acts. During break, I'm going to continue my search on this, but on a national level and contact the necessary offices I would need to speak with in order to get these data charts.
