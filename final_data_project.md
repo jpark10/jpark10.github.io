@@ -39,7 +39,7 @@ Initially, the numbers may not seem like a big deal because they don’t go any 
 
 INSERT GRAPH
 
-In 2009, California was ranked 42 and Montana was ranked 1when compared to other states by the rate of suicides. However, that same year, California had a total of 3,823 deaths and Montana only had 219.
+That same year, California was ranked 44 and Wyoming was ranked 1 when compared to other states by the rate of suicides. However, in 2012, California had a total of 3,893 deaths and Wyoming only had 171.
 
 It’s the same pattern for the next three years. California consistently is considered to be the leading state in terms of total deaths but ranks 42 or 44 depending on the year when it’s compared to other states on its suicide rate.
 
