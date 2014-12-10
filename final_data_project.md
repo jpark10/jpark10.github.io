@@ -69,7 +69,7 @@ But the total number of fatalities excludes the number of attempted suicides tha
 
 For example, in 2009 there were a total of 36,909 suicides that coroners from each state recorded. The American Association of Suicidology, which verifies its findings with what the CDC has on record, states there are 25 attempted suicides for each death that occurs.
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1YybyVn_Z9Um5ntq0_763pNPTXwQXqr0ywhr1wnTIklA/pubchart?oid=220816095&amp;format=interactive"></iframe>
+<a href="http://imgur.com/TAmWtW2"><img src="http://i.imgur.com/TAmWtW2.png" title="source: imgur.com" /></a>
 
 So that means in 2009 there were 922,725 attempted suicides. However, one idea that we have to keep in mind is that this number only includes the attempted suicides it has on record. The total number could be higher since they can’t take into account the incidents that weren’t recorded when conducting this study.
 
