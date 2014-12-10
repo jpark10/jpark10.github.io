@@ -24,7 +24,7 @@ But suicides aren’t only happening in the Bay Area. It’s an issue that affec
 
 
 
-<p><b> <font size="3" color="red"> California’s Suicide Rates </font> </b>.</p>
+<p><b> <font size="4" color="red"> California’s Suicide Rates </font> </b></p>
 
 California, a state that currently has more than 38 million residents is ranked number 1 in total number of deaths by suicide. However, when all the states are ranked by the rate at which these deaths occur, California shifts towards the bottom half of the list with Alaska, Wyoming and Montana taking over the top three spots.
 
@@ -47,7 +47,7 @@ As you can see from the charts that the American Association of Sociology and th
 
 
 
-<p><b> <font size="3" color="red"> USA </font> </b>.</p>
+<p><b> <font size="4" color="red"> USA </font> </b></p>
 
 On a national level, suicide seems to be a topic that only gets covered once an incident occurs and for several more days until something bigger and more grandiose takes over. You mourn the loss of someone who you may have never met before, but forget about them a few days later when something more important piques your interest. 
 
