@@ -37,7 +37,7 @@ Even though states like Wyoming, Montana and Alaska don’t have nearly as many 
 
 Initially, the numbers may not seem like a big deal because they don’t go any higher than 30 percent. However, if we were to look at it by breaking down the total number of deaths in each individual state, you may change your mind.
 
-INSERT GRAPH
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1QzliR2PLAWN-V-kpmvtQFH-PkgedDx2xfGT7yZr-qmk/pubchart?oid=829495240&amp;format=interactive"></iframe>
 
 That same year, California was ranked 44 and Wyoming was ranked 1 when compared to other states by the rate of suicides. However, in 2012, California had a total of 3,893 deaths and Wyoming only had 171.
 
