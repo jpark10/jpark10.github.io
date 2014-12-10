@@ -57,8 +57,6 @@ Prominent newspaper publications like The New York Times and The Washington Post
 
 Thomas Joiner, a professor at Florida State University, says suicide happens when four different types of feelings are mixed together: belongingness, capability, perceived burdensomeness and desire.
 
-But as people read through article after article that discusses the scientific reasoning behind a mental illness like depression and how loved ones coped with the tragic loss, they don’t realize the big picture: suicides are on the rise and it’s not going away anytime soon.
-
 In 2005, there were 32,637 suicides in the United States. If we were to break that down by sex, 25,907 men and 6,730 women took their own lives that year. But in just four years, that number rose to 36,909. 
 
 
