@@ -30,7 +30,8 @@ California, a state that currently has more than 38 million residents is ranked 
 
 The mathematical equation that organizations use to compute the rate is the number of suicides by group divided by the population of each state multiplied by 100,000. 
 
-INSERT GRAPH
+<center> <a href="http://imgur.com/cj0Inz3"><img src="http://i.imgur.com/cj0Inz3.png" title="source: imgur.com" /></a> </center>
+
 
 Even though states like Wyoming, Montana and Alaska don’t have nearly as many people as California, the rates for each of these states in 2012 were 29.7, 23.3 and 23.0, respectively. California’s number that year was 10.2.
 
