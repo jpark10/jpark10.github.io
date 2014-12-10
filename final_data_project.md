@@ -41,7 +41,7 @@ Initially, the numbers may not seem like a big deal because they don’t go any 
 
 That same year, California was ranked 44 and Wyoming was ranked 1 when compared to other states by the rate of suicides. However, in 2012, California had a total of 3,893 deaths and Wyoming only had 171.
 
-It’s the same pattern for the next three years. California consistently is considered to be the leading state in terms of total deaths but ranks 42 or 44 depending on the year when it’s compared to other states on its suicide rate.
+It’s the same pattern for the previous three years. California is consistently considered to be the leading state in terms of total deaths but ranks 42 or 44 depending on the year when it’s compared to other states on its suicide rate.
 
 As you can see from the charts that the American Association of Sociology and the CDC produced, there are more and more suicides each year that take place in this country.
 
@@ -72,7 +72,7 @@ But the total number of fatalities excludes the number of attempted suicides tha
 For example, in 2009 there were a total of 36,909 suicides that coroners from each state recorded. The American Association of Suicidology, which verifies its findings with what the CDC has on record, states there are 25 attempted suicides for each death that occurs.
 
 
-<center> <a href="http://imgur.com/TAmWtW2"><img src="http://i.imgur.com/TAmWtW2.png" title="source: imgur.com" /></a> </center>
+<center><a href="http://imgur.com/nsVHi9i"><img src="http://i.imgur.com/nsVHi9i.png" title="source: imgur.com" /></a></center>
 
 So that means in 2009 there were 922,725 attempted suicides. However, one idea that we have to keep in mind is that this number only includes the attempted suicides it has on record. The total number could be higher since they can’t take into account the incidents that weren’t recorded when conducting this study.
 
