@@ -7,13 +7,13 @@ These tragic stories grappled the Palo Alto community forcing school administrat
 
 Caltrain is a form of transportation that connects people living in the Bay Area from the San Francisco station near AT&T Park to Gilroy Station. The train stops at 32 different stops seven days a week. 
 
-Commuters use the Caltrain to travel to and from work. Others may take the train to San Francisco to watch a ball game with their friends and families. But in places like Palo Alto and Menlo Park, some people use the tracks as a way to end their lives.  
+Commuters use the Caltrain to travel to and from work. Others may take the train to San Francisco to watch a ball game with their friends and families. But in places like Palo Alto and Menlo Park, some people use the tracks as a way to end their lives.
 
 Lee and Gens are two out of eight people who died on the Caltrain’s right of way this year. Caltrain’s public information officer Christine Dunn says since 1992, there have been an average of 12 accidents per year.
 
 But in 2009, there were a total of 19 deaths on the tracks with 15 of these deaths being categorized as suicides.
 
-INSERT GRAPH 
+<center> <a href="http://imgur.com/ORB8oQD"><img src="http://i.imgur.com/ORB8oQD.png" title="source: imgur.com" /></a> </center>
 
 From 2009 to present day, there have been a total of 79 deaths on the train tracks. Of those 79 fatalities, 64 of the incidents were labeled to be suicides. That’s excluding the 7 deaths from this year that are still pending.
 
@@ -60,6 +60,7 @@ But as people read through article after article that discusses the scientific r
 
 In 2005, there were 32,637 suicides in the United States. If we were to break that down by sex, 25,907 men and 6,730 women took their own lives that year. But in just four years, that number rose to 36,909. 
 
+
 <center> <a href="http://imgur.com/EWtGJpF"><img src="http://i.imgur.com/EWtGJpF.png" title="source: imgur.com" /></a> </center>
 
 
@@ -68,6 +69,7 @@ In a three-year span, the numbers continued to increase until they hit an all ti
 But the total number of fatalities excludes the number of attempted suicides that take place in the United States each year. 
 
 For example, in 2009 there were a total of 36,909 suicides that coroners from each state recorded. The American Association of Suicidology, which verifies its findings with what the CDC has on record, states there are 25 attempted suicides for each death that occurs.
+
 
 <center> <a href="http://imgur.com/TAmWtW2"><img src="http://i.imgur.com/TAmWtW2.png" title="source: imgur.com" /></a> </center>
 
