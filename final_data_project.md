@@ -22,6 +22,8 @@ Even though there have been more deaths each year that have been categorized as 
 But suicides aren’t only happening in the Bay Area. It’s an issue that affects the whole state.
 
 
+
+
 California’s Suicide Rates
 
 California, a state that currently has more than 38 million residents is ranked number 1 in total number of deaths by suicide. However, when all the states are ranked by the rate at which these deaths occur, California shifts towards the bottom half of the list with Alaska, Wyoming and Montana taking over the top three spots.
@@ -41,6 +43,8 @@ In 2009, California was ranked 42 and Montana was ranked 1when compared to other
 It’s the same pattern for the next three years. California consistently is considered to be the leading state in terms of total deaths but ranks 42 or 44 depending on the year when it’s compared to other states on its suicide rate.
 
 As you can see from the charts that the American Association of Sociology and the CDC produced, there are more and more suicides each year that take place in this country.
+
+
 
 
 USA
