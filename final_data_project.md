@@ -60,7 +60,8 @@ But as people read through article after article that discusses the scientific r
 
 In 2005, there were 32,637 suicides in the United States. If we were to break that down by sex, 25,907 men and 6,730 women took their own lives that year. But in just four years, that number rose to 36,909. 
 
-INSERT GRAPH
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/13JGDBcXyNgCKHvGZAmXv_iYeSL3FFwc7gUGSJW0yd3Y/pubchart?oid=680841371&amp;format=interactive"></iframe>
+
 
 In a three-year span, the numbers continued to increase until they hit an all time high of more than 40,000 suicides in 2012.  The graph, which breaks down each of the numbers by year, shows time and time again that men are three times more likely to commit suicide than women are, in our country.
 
