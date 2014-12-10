@@ -48,7 +48,7 @@ As you can see from the charts that the American Association of Sociology and th
 
 
 
-<p><b> <font size="4" color="red"> USA </font> </b></p>
+<p><b> <font size="4" color="red"> Suicide in the United States </font> </b></p>
 
 On a national level, suicide seems to be a topic that only gets covered once an incident occurs and for several more days until something bigger and more grandiose takes over. You mourn the loss of someone who you may have never met before, but forget about them a few days later when something more important piques your interest. 
 
