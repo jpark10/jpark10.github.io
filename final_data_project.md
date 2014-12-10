@@ -13,7 +13,7 @@ Lee and Gens are two out of eight people who died on the Caltrain’s right of w
 
 But in 2009, there were a total of 19 deaths on the tracks with 15 of these deaths being categorized as suicides.
 
-<center> <a href="http://imgur.com/ORB8oQD"><img src="http://i.imgur.com/ORB8oQD.png" title="source: imgur.com" /></a> </center>
+<center><a href="http://imgur.com/nZe0GRt"><img src="http://i.imgur.com/nZe0GRt.png" title="source: imgur.com" /></a></center>
 
 From 2009 to present day, there have been a total of 79 deaths on the train tracks. Of those 79 fatalities, 64 of the incidents were labeled to be suicides. That’s excluding the 7 deaths from this year that are still pending.
 
