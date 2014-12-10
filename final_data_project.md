@@ -63,7 +63,7 @@ In 2005, there were 32,637 suicides in the United States. If we were to break th
 <center><a href="http://imgur.com/1klJGiN"><img src="http://i.imgur.com/1klJGiN.png" title="source: imgur.com" /></a></center>
 
 
-In a three-year span, the numbers continued to increase until they hit an all time high of more than 40,000 suicides in 2012.  The graph, which breaks down each of the numbers by year, shows time and time again that men are three times more likely to commit suicide than women are, in our country.
+In a three-year span, the numbers continued to increase until they hit an all time high of more than 40,000 suicides in 2012.  The graph, which breaks down each of the numbers by year, shows time and time again that men are three times more likely to commit suicide than women, in our country.
 
 But the total number of fatalities excludes the number of attempted suicides that take place in the United States each year. 
 
@@ -74,4 +74,4 @@ For example, in 2009 there were a total of 36,909 suicides that coroners from ea
 
 So that means in 2009 there were 922,725 attempted suicides. However, one idea that we have to keep in mind is that this number only includes the attempted suicides it has on record. The total number could be higher since they can’t take into account the incidents that weren’t recorded when conducting this study.
 
-From sifting through all this data and compiling these charts into something that’s easily readable and understood, there’s one thing that’s clear. More and more people in the United States are taking their own lives as a means to an end, and from the data that has been presented to you in this story, it doesn’t seem like the numbers will be going down anytime soon.
+From sifting through all of this data and compiling these charts into something that’s easily readable and understood, there’s one thing that’s clear. More and more people in the United States are taking their own lives as a means to an end, and from the data that has been presented to you in this story, it doesn’t seem like the numbers will be going down anytime soon.
