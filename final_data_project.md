@@ -1,5 +1,5 @@
 
-PALO ALTO - The most recent death on November 4th of Cameron Lee, a junior from Gunn High School has reignited discussion about suicide in the Palo Alto community. Lee’s death comes less than three weeks after Quinn Gens’ tragedy on October 15th. Both boys took their lives on the Caltrain tracks this fall.
+<p><b> PALO ALTO </b><p> - The most recent death on November 4th of Cameron Lee, a junior from Gunn High School has reignited discussion about suicide in the Palo Alto community. Lee’s death comes less than three weeks after Quinn Gens’ tragedy on October 15th. Both boys took their lives on the Caltrain tracks this fall.
 
 The Center for Disease Control and Prevention defines suicide to be a death caused by self-directed injurious behavior with any intent to die as a result of the behavior. In other words, it’s the act of intentionally taking one’s own life.
 
@@ -26,7 +26,7 @@ But suicides aren’t only happening in the Bay Area. It’s an issue that affec
 
 <p><b> <font size="4" color="red"> California’s Suicide Rates </font> </b></p>
 
-California, a state that currently has more than 38 million residents is ranked number 1 in total number of deaths by suicide. However, when all the states are ranked by the rate at which these deaths occur, California shifts towards the bottom half of the list with Alaska, Wyoming and Montana taking over the top three spots.
+California, a state that currently has more than 38 million residents, is ranked number 1 in total number of deaths by suicide. However, when all of the states are ranked by the rate at which these deaths occur, California shifts towards the bottom half of the list with Alaska, Wyoming and Montana taking over the top three spots.
 
 The mathematical equation that organizations use to compute the rate is the number of suicides by group divided by the population of each state multiplied by 100,000. 
 
@@ -41,9 +41,9 @@ Initially, the numbers may not seem like a big deal because they don’t go any 
 
 That same year, California was ranked 44 and Wyoming was ranked 1 when compared to other states by the rate of suicides. However, in 2012, California had a total of 3,893 deaths and Wyoming only had 171.
 
-It’s the same pattern for the previous three years. California is consistently considered to be the leading state in terms of total deaths but ranks 42 or 44 depending on the year when it’s compared to other states on its suicide rate.
+It’s the same pattern for the previous three years. California is consistently considered to be the leading state in terms of total deaths but ranks 42 or 44, depending on the year, when it’s compared to other states on its suicide rate.
 
-As you can see from the charts that the American Association of Sociology and the CDC produced, there are more and more suicides each year that take place in this country.
+As you can see from the charts that the American Association of Suicidology and the CDC produced, there are more and more suicides each year that take place in this country.
 
 
 
