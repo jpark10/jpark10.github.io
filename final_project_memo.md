@@ -11,13 +11,13 @@ The biggest problem that I encountered in collecting the data was the idea that 
 
 <p><b> List of Data Source </b><p>
 
-1. https://zm02.pobox.stanford.edu/service/home/~/?auth=co&loc=en_US&id=4881&part=2&view=html
+https://zm02.pobox.stanford.edu/service/home/~/?auth=co&loc=en_US&id=4881&part=2&view=html
 
 -> This is the data source that I got from the public information officer from Caltrain that lists the number of fatalities on the train’s right of way within the last 5 years. It broke down the numbers by suicide deaths, unintended (homicide), pending and total number of deaths, which made it very easy to read. I thought this was almost one of the most important data source to this project because it validated and supported my point about suicides in the Bay Area in relation to Caltrain. I didn’t have to do any calculation since Christine Dunn, the PIO, e-mailed me the breakdown of the numbers, and I had no problems or inconsistencies when I received this data. 
 
 
 
-2. http://www.suicidology.org/resources/facts-statistics
+http://www.suicidology.org/resources/facts-statistics
 
 http://www.suicide.org/suicide-statistics.html#2005
 
