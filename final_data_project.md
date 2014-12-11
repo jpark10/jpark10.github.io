@@ -1,5 +1,5 @@
 
-<p><b> PALO ALTO </b><p> - The most recent death on November 4th of Cameron Lee, a junior from Gunn High School has reignited discussion about suicide in the Palo Alto community. Lee’s death comes less than three weeks after Quinn Gens’ tragedy on October 15th. Both boys took their lives on the Caltrain tracks this fall.
+<p><b> PALO ALTO </b><p>-The most recent death on November 4th of Cameron Lee, a junior from Gunn High School has reignited discussion about suicide in the Palo Alto community. Lee’s death comes less than three weeks after Quinn Gens’ tragedy on October 15th. Both boys took their lives on the Caltrain tracks this fall.
 
 The Center for Disease Control and Prevention defines suicide to be a death caused by self-directed injurious behavior with any intent to die as a result of the behavior. In other words, it’s the act of intentionally taking one’s own life.
 
